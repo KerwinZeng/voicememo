@@ -1,0 +1,16 @@
+/* 图标样式 */
+.icon-home::before {
+    content: "🏠";
+}
+
+.icon-history::before {
+    content: "📜";
+}
+
+.icon-profile::before {
+    content: "👤";
+}
+
+.icon-mic::before {
+    content: "🎤";
+} 
